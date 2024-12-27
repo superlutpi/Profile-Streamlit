@@ -2,8 +2,7 @@ import streamlit as st
 
 page_profile = st.Page(
     page="profile_1.py",
-    title="About Me",
-    icon=":material/smart_toy:"
+    title="About Me"
 )
 
 uiux = st.Page(
