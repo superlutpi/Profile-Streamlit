@@ -44,7 +44,7 @@ st.write("---")
 # --- Experiences ---
 st.write("\n")
 st.subheader("Experience")
-st.write(" - **Bangkit Academy by Google, GoTo, Traveloka**         (2020 - 2024)")
+st.write(" - **Bangkit Academy by Google, GoTo, Traveloka**         (2023 - 2024)")
 st.text("""
 - Apply an application using XML in Andorid Studio.
 - Designing and Prototyping final project using Figma and XML.
