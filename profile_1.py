@@ -25,13 +25,13 @@ with col2:
         go_to_contact()
 
 # ---Profile---
-st.write("I am a fresh graduate from Gunadarma University majoring in Informatics Engineering." 
-         "I have advanced skill in UI/UX Design for mobile application and website. Tools that I use for Wireframing, Designing, and Prototyping is Figma." 
-         "I have experience created a mobile applications for Bangkit Academy 2023 By Google, GoTo, Traveloka using Figma, XML, and Kotlin."
-         "Beside that, i also have advanced skill using SQL. I have strong knowledge about DBMS and RDBMS."
-         "And then, i also learn about Investment and Trading Strategy." 
-         "I'm using Fundamental Research and Technical Analysis for invest on the company and project that i choose."
-         "For now, in the investment i deepen on Gold and Cryptocurrency.")
+st.write("I am a fresh graduate from Gunadarma University majoring in Information Technology." 
+         "I have advanced skills in UI/UX Design for mobile applications and websites. I’m using Figma for wireframing, designing, and prototyping."  
+         "I have experience creating mobile applications from enrolling in Bangkit Academy 2023 by Google, GoTo, and Traveloka using Figma, XML, and Kotlin."
+         "Besides that, I also have advanced skills using SQL. I have strong knowledge of DBMS and RDBMS."
+         "I have deployed an E-Learning Website using HTML, CSS, PHP, and also using SQL for managing databases for my project at 3rd college."  
+         "For my final thesis at 4th college, I created “Seaweed Detection” using Python Programming Language."
+         "The experience has enabled me on how to use the Python Framework.")
 st.write("---")
 
 # --- Education ----
@@ -46,11 +46,9 @@ st.write("\n")
 st.subheader("Experience")
 st.write(" - **Bangkit Academy by Google, GoTo, Traveloka**         (2023 - 2024)")
 st.text("""
-- Apply an application using XML in Andorid Studio.
-- Designing and Prototyping final project using Figma and XML.
-- Styling and Created application using Android Compose.
-- Learn about fundamental of android application.
-- Created simple android application using Kotlin programming language.
+- Applied 4 mobile applications, handling from end-to-end in Android Studio using XML programming language (e.g., Android Compose) as front-end and Kotlin as back-end.
+- Learned about the fundamentals of the Android application
+- Created Modal Jalan mobile application as a capstone project, covering the scope of work from design using Figma to mobile development using Kotlin and XML.
 """)
 st.write("---")
 
@@ -60,17 +58,17 @@ st.subheader("Projects")
 
 st.write(" - UI/UX Projects")
 st.text("""
-- Designing UI for website “Gundar Bakery”.
-- Redesign UI for the application of BMKG and make principle protection more stronger.
-- Designing UI application of attendance.
-- Wireframing, Designing, and Prototyping UI for website “Triple-Grow”.
-- Designing UI for website of my profile.
+- Designed UI for website “Gundar Bakery”.
+- Redesigned UI for the application of BMKG and make principle protection more stronger.
+- Designed UI application of attendance.
+- Created Wireframe, Design, and Prototype UI for website “Triple-Grow”.
+- Designed UI for website of my profile.
 - Created Wireframe, Design, and Prototype UI for application crypto exchange.
 """)
 
 st.write(" - Website Development")
 st.text("""
-- Created E-Learning website for three users login, there are as a student, as an admin, and as a teacher using PHP, HTML, CSS and SQL for database
+- Created E-Learning website for three users login, there are as a student, as an admin, and as a teacher using PHP, HTML, CSS and SQL for manage database
 - Implement from UI Design to website from “Gundar Bakery” using HTML and CSS.
 """)
 
