@@ -38,7 +38,7 @@ st.write("---")
 st.write("\n")
 st.subheader("Education")
 st.write(" - **Information Technology, Gunadarma University**        (2020 - 2024)")
-st.write("GPA : 3.65/4.00")
+st.write("GPA : 3.66/4.00")
 st.write("---")
 
 # --- Experiences ---
@@ -47,7 +47,7 @@ st.subheader("Experience")
 st.write(" - **Bangkit Academy by Google, GoTo, Traveloka**         (2023 - 2024)")
 st.text("""
 - Applied 4 mobile applications, handling from end-to-end in Android Studio using XML programming language (e.g., Android Compose) as front-end and Kotlin as back-end.
-- Learned about the fundamentals of the Android application
+- Implemented fundamentals of the Android Application to be Mobile Application using Kotlin and XML in Android Studio
 - Created Modal Jalan mobile application as a capstone project, covering the scope of work from design using Figma to mobile development using Kotlin and XML.
 """)
 st.write("---")
