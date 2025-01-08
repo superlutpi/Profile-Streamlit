@@ -59,3 +59,13 @@ with col2:
     st.write("Designing UI application of attendance and implement principle of UI/UX Design.")
     st.write("[Show more](https://www.figma.com/proto/OfgxQ5qwwoiBSpP3vUncEG/tugas-imk?page-id=0%3A1&node-id=110-1341&node-type=canvas&viewport=122%2C431%2C0.08&t=xTGQpLOzWTlyo75a-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2)")
 st.write("---")
+
+#7
+col1, col2 = st.columns((1,2), vertical_alignment="center")
+with col1:
+    st.image("./asset/modaljln.png", width=100)
+with col2:
+    st.header("ModalJalan Mobile Application", anchor=False)
+    st.write("Designing and Prototyping ModalJalan Apps for Capstone Project in Bangkit Academy as a Mobile Developer.")
+    st.write("[Show more](https://www.figma.com/proto/htcevYd8v8KTwI1GPQaI6P/Untitled?page-id=553%3A2&node-id=553-261&node-type=canvas&viewport=138%2C174%2C0.25&t=VRYhPp30bCpPSMfj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=553%3A27)")
+st.write("---")
