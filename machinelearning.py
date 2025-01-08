@@ -33,3 +33,5 @@ with col5:
     st.image("./asset/cnn3.png")
 with col6:
     st.image("./asset/graph_model.png")
+
+st.write("[Link To Colab](https://colab.research.google.com/drive/14Q4j1MCZnRDkAwKSv62K9jryHZXtF6W4)")
