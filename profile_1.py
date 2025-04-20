@@ -25,13 +25,15 @@ with col2:
         go_to_contact()
 
 # ---Profile---
-st.write("I am a fresh graduate from Gunadarma University majoring in Information Technology." 
-         "I have advanced skills in UI/UX Design for mobile applications and websites. I’m using Figma for wireframing, designing, and prototyping."  
-         "I have experience creating mobile applications from enrolling in Bangkit Academy 2023 by Google, GoTo, and Traveloka using Figma, XML, and Kotlin."
-         "Besides that, I also have advanced skills using SQL. I have strong knowledge of DBMS and RDBMS."
-         "I have deployed an E-Learning Website using HTML, CSS, PHP, and also using SQL for managing databases for my project at 3rd college."  
-         "For my final thesis at 4th college, I created “Seaweed Detection” using Python Programming Language."
-         "The experience has enabled me on how to use the Python Framework.")
+st.write("I am a graduate from Gunadarma University majoring in Information Technology." 
+         "I have advanced skills using Structured Query Language (SQL) and also have strong knowledge of DBMS and RDBMS."  
+         "I have experience using SQL Procedure (e.g., Stored Procedure, Function Procedure)."
+         "Proficient in using PostgreeSQL, MySQL, and also Microsoft SQL Server."
+         "I have work experience at Suzuki Finance as an IT Asset Management for handling databases from collection divison."  
+         "And also, I have experiences and strong knowledge of Python Programming."
+         "I have deployed “Seaweed Detection” using Python Programming Language for my final thesis."
+         "The experience has enabled me on how to use the Python Framework."
+         "I’m currently following a program from RevoU as a Data Analytics to deepen my skill and knowledge in using tools (e.g., SQL, Python, Tableau, PowerBI).")
 st.write("---")
 
 # --- Education ----
